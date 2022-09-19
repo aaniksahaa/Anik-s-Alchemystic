@@ -5,8 +5,9 @@ An easy-to-use font developed for the sake of writing Chemistry based text inclu
 1. Download the otf file in the repository.
 2. Click on the downloaded file and then click 'Install'.
 3. Open 'Microsoft Word' or any relevant software.
-4. Choose the font.
-5. Write whatever you wish according to the manual.
+4. Choose the font. The font will appear to be like chemistry jargons in the dropdown menu. You will find it fex notches below the top.
+5. Download the "User Manual.pdf" file.
+6. Write whatever you wish according to the manual.
 
 # Demonstration
 
