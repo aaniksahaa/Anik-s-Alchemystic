@@ -7,3 +7,8 @@ An easy-to-use font developed for the sake of writing Chemistry based text inclu
 3. Open 'Microsoft Word' or any relevant software.
 4. Choose the font.
 5. Write whatever you wish according to the manual.
+
+# Demonstration
+
+https://user-images.githubusercontent.com/63545621/190996628-fbf4fdc7-7ffb-4e6f-8a53-f50702910187.mp4
+
